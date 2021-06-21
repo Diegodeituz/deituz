@@ -1,0 +1,754 @@
+<html xml:lang="es-es" lang="es-es" >
+<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <base href="https://www.ituzaingonoticias.com.ar/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Portal de noticias de Ituzaingó Corrientes. Información local, provincial, nacional e internacional. Cobertura periodística de los hechos más importante." />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Ituzaingo Noticias | Ituzaingó Corrientes</title>
+	<link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/templates/rt_afterburner2/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/templates/rt_afterburner2/css-compiled/menu-454be936dfc0167c236959f521eb03e7.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/rt_afterburner2/css-compiled/menu-responsive-454be936dfc0167c236959f521eb03e7.css" rel="stylesheet" type="text/css" />
+	<link href="/libraries/gantry/css/grid-responsive.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/rt_afterburner2/css-compiled/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/rt_afterburner2/css-compiled/master-6e69938d5b1c48b0eb2897dd06dba641.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/rt_afterburner2/css-compiled/mediaqueries.css" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Actor:regular&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+.margin-h-8 {margin:8px;}
+#rt-logo {background: url(/images/logo2.png) 50% 0 no-repeat !important;}
+#rt-logo {width: 400px;height: 100px;}
+
+h1, h2 { font-family: 'Actor', 'Helvetica', arial, serif; }
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"458def47ad4ada0bbd3e2fa495975f51","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?b049b4097cc00c3cd534db7ab42070da" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?b049b4097cc00c3cd534db7ab42070da" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?b049b4097cc00c3cd534db7ab42070da" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?b049b4097cc00c3cd534db7ab42070da" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?b049b4097cc00c3cd534db7ab42070da" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js?b049b4097cc00c3cd534db7ab42070da" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?b049b4097cc00c3cd534db7ab42070da" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?b049b4097cc00c3cd534db7ab42070da" type="text/javascript"></script>
+	<script src="/libraries/gantry/js/browser-engines.js" type="text/javascript"></script>
+	<script src="/templates/rt_afterburner2/js/rokmediaqueries.js" type="text/javascript"></script>
+	<script src="/modules/mod_roknavmenu/themes/default/js/rokmediaqueries.js" type="text/javascript"></script>
+	<script src="/modules/mod_roknavmenu/themes/default/js/responsive.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+
+	</script>
+</head>
+<body  class="logo-type-custom headerstyle-dark menustyle-dark footerstyle-dark font-family-actor font-size-is-default menu-type-dropdownmenu menu-dropdownmenu-position-top-a layout-mode-responsive col12">
+        <header id="rt-top-surround">
+				<div id="rt-top" >
+			<div class="rt-container">
+				<div class="rt-grid-6 rt-alpha">
+            <div class="rt-block logo-block">
+            <a href="/" id="rt-logo"></a>
+			<span id="rt-logo-accent"></span>
+        </div>
+        
+	<div class="rt-block menu-block">
+		<div class="gf-menu-device-container"></div>
+<ul class="gf-menu l1 " >
+                    <li class="item101 active last" >
+
+            <a class="item" href="/index.php"  >
+                Inicio            </a>
+
+             
+        </li>
+                            <li class="item102" >
+
+            <a class="item" href="/index.php/ituzaingo"  >
+                Ituzaingo            </a>
+
+             
+        </li>
+                            <li class="item103" >
+
+            <a class="item" href="/index.php/corrientes"  >
+                Corrientes            </a>
+
+             
+        </li>
+                            <li class="item104" >
+
+            <a class="item" href="/index.php/pais"  >
+                Pais            </a>
+
+             
+        </li>
+                            <li class="item105" >
+
+            <a class="item" href="/index.php/mundo"  >
+                Mundo            </a>
+
+             
+        </li>
+            </ul>		<div class="clear"></div>
+	</div>
+	
+</div>
+<div class="rt-grid-6 rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom"  >
+	<p><span style="font-size: 8pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<audio preload="none" autoplay="autoplay" controls="controls" id="stream" style="width: 272px;" type="audio/mpeg"><source src="http://server.ohradio.com.ar:9402/;" type="audio/mpeg" /></audio>
+ &nbsp;&nbsp;<span style="text-align: right;">EN VIVO</span>&nbsp;</span><span style="font-size: 8pt;">&nbsp;<a href="http://www.ituzaingonoticias.com.ar/"><img src="/images/banners/text.gif" alt="text" width="72" height="10" /></a></span></p>
+<article>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.ituzaingonoticias.com.ar/"><span style="font-size: 8pt;"></span><img src="/images/Cadena.jpg" alt="Cadena" width="94" height="48" style="margin-top: 2px; margin-bottom: 2px;" />&nbsp;</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="https://www.eby.org.ar/#"><img src="/images/BANNERS_YACYRETÁ.jpg" alt="BANNERS YACYRETÁ" width="192" height="100" /></a><a href="http://www.ituzaingonoticias.com.ar/"><span style="color: #ffffff;"><em><span style="font-family: 'comic sans ms', sans-serif;"><br /></span></em></span></a></p>
+</article></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+					</header>
+	
+	 		<div id="rt-drawer">
+			<div class="rt-container">
+           		           		<div class="clear"></div>
+			</div>
+       </div>
+   		
+	<div id="rt-mainbody-surround">
+		<div class="rt-container">			
+			    			          
+<div id="rt-main" class="mb12">
+                <div class="rt-container">
+                    <div class="rt-grid-12 ">
+                                                						<div class="rt-block">
+	                        <div id="rt-mainbody">
+								<div class="component-content">
+	                            	<section class="blog-featured " itemscope itemtype="http://schema.org/Blog">
+	
+	
+			<div class="items-row cols-3 row-0">
+				<article class="item column-1" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/ituzaingo/2974-rio-parana-estado-de-situacion-al-lunes-21-de-junio" itemprop="url">
+			Río Paraná: estado de situación al lunes 21 de junio</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=a7462095d1fa3ed32c73a2c57508572f003afa24" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-21T16:12:11+00:00" itemprop="datePublished">
+				Publicado: Lunes, 21 Junio 2021 16:12			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/ituzaingo/2974-rio-parana-estado-de-situacion-al-lunes-21-de-junio"><img src="/images/represa.jpg" alt="represa" width="250" style="margin: 2px; float: left;" /></a>&nbsp;
+Continuando con los mensajes elaborados por la Entidad Binacional Yacyretá, se informa que los pronósticos de lluvias producidos por los diferentes centros meteorológicos de referencia prevén precipitaciones de variada intensidad sobre la cuenca de aporte directo al embalse y regiones...
+
+
+
+<div class="item-separator"></div>
+		</article>
+						
+			<article class="item column-2" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/pais/2973-cafiero-esta-semana-vendran-casi-5-millones-de-vacunas-y-es-un-dato-muy-alentador" itemprop="url">
+			Cafiero: &quot;Esta semana vendrán casi 5 millones de vacunas y es un dato muy alentador&quot;</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=c305a9762b82f76c421a96b44bc8e7fa7ccac6e0" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-21T15:54:23+00:00" itemprop="datePublished">
+				Publicado: Lunes, 21 Junio 2021 15:54			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/pais/2973-cafiero-esta-semana-vendran-casi-5-millones-de-vacunas-y-es-un-dato-muy-alentador"><img src="/images/Vacunas_made_in_Arg.jpg" alt="Vacunas made in Arg" width="250" style="margin: 2px; float: left;" /></a>&nbsp;
+El jefe de Gabinete participó de la llegada de un nuevo envío desde Estados Unidos de 1.139.000 dosis de la vacuna desarrollada por el laboratorio AstraZeneca y la Universidad de Oxford, producidas por la empresa mAbxience en la provincia de Buenos Aires.
+El jefe de Gabinete, Santiago...
+
+
+
+<div class="item-separator"></div>
+		</article>
+						
+			<article class="item column-3" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/corrientes/2972-el-pj-apelara-la-decision-de-la-jueza-electoral-herrero" itemprop="url">
+			El PJ apelará la decisión de la jueza electoral Herrero</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=6f813d41e201528ce59c8e8d2ee2eba0b1ad7619" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-21T15:46:48+00:00" itemprop="datePublished">
+				Publicado: Lunes, 21 Junio 2021 15:46			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/corrientes/2972-el-pj-apelara-la-decision-de-la-jueza-electoral-herrero"><img src="/images/PJ.jpg" alt="PJ" width="250" style="margin: 2px; float: left;" /></a>El apoderado del PJ, Félix Pacayut, confirmó que el PJ apelará la decisión de la jueza en lo electoral, Herrero, de desestimar las impugnaciones al llamado a elecciones del 29 de agosto. Al respecto dijo que “lo haremos en las próximas horas, en la cámara en lo contencioso...
+
+
+
+<div class="item-separator"></div>
+		</article>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-3 row-1">
+				<article class="item column-1" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/ituzaingo/2971-apipe-allanamiento-en-la-isla-marco-por-pesca-ilegal" itemprop="url">
+			Apipe: Allanamiento en la Isla Marco por pesca ilegal</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=96254d63e14021c0d9c85be8702cc22a6cc1d0aa" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-19T13:49:19+00:00" itemprop="datePublished">
+				Publicado: Sábado, 19 Junio 2021 13:49			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/ituzaingo/2971-apipe-allanamiento-en-la-isla-marco-por-pesca-ilegal"><img src="/images/Isla_Marco_II.jpg" alt="Isla Marco II" width="250" style="margin: 2px; float: left;" /></a>&nbsp;
+La Prefectura Naval Argentina de manera conjunta con la Armada Paraguaya llevaron adelante varios allanamientos en las casas ubicadas en la Isla Marco de Apipé
+Los allanamientos estuvieron dispuestos por la Comisión Mixta Argentina Paraguaya (COMIP) los efectivos buscaban todo arte de pesca...
+
+
+
+<div class="item-separator"></div>
+		</article>
+						
+			<article class="item column-2" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/ituzaingo/2970-gendarmeria-intercepto-camiones-con-142-toneladas-de-soja-ilegal" itemprop="url">
+			Gendarmería interceptó camiones con 142 toneladas de soja ilegal</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=c8a3dff0a98244f00a6b72c1996691f861095655" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-19T13:00:18+00:00" itemprop="datePublished">
+				Publicado: Sábado, 19 Junio 2021 13:00			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/ituzaingo/2970-gendarmeria-intercepto-camiones-con-142-toneladas-de-soja-ilegal"><img src="/images/Soja_GN.jpg" alt="Soja GN" width="250" style="margin: 2px; float: left;" /></a>&nbsp;
+Cinco los vehículos demorados en la Ruta Nacional 12 que avanzaban en dirección a Misiones, repletos de granos cuyo valor fue estimado en 2.274.000 pesos. Carecían de documentación para este tipo de traslados y la carga fue incautada por infracción a la ley de delitos tributarios.
+Un nuevo...
+
+
+
+<div class="item-separator"></div>
+		</article>
+						
+			<article class="item column-3" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/corrientes/2969-rechazo-el-planteo-del-pj-para-anular-las-elecciones-del-29-08" itemprop="url">
+			Rechazó el planteo del PJ para anular las elecciones del 29/08</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=43ae931def88b3ec60d644d5aa41bac130e96982" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-18T20:26:26+00:00" itemprop="datePublished">
+				Publicado: Viernes, 18 Junio 2021 20:26			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/corrientes/2969-rechazo-el-planteo-del-pj-para-anular-las-elecciones-del-29-08"><img src="/images/justicias_ctes.jpg" alt="justicias ctes" width="250" style="margin: 2px; float: left;" /></a>&nbsp;
+La jueza de primera instancia advirtió que debe primar lo que establece la Constitución provincial.
+La jueza María Eugenia Herrero rechazó la medida autosatisfactiva que presentaron los apoderados del PJ para declarar nula la convocatoria a elección a gobernador y vice del 29 de agosto...
+
+
+
+<div class="item-separator"></div>
+		</article>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-3 row-2">
+				<article class="item column-1" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/corrientes/2968-tarjeta-alimentar-el-22-de-junio-nacion-acredita-montos-con-aumentos-para-beneficiarios-de-corrientes" itemprop="url">
+			Tarjeta Alimentar: el 22 de junio Nación acredita montos con aumentos para beneficiarios de Corrientes</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=9dccee0021011e694b1fdc68b67d46585174cee1" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-18T11:15:31+00:00" itemprop="datePublished">
+				Publicado: Viernes, 18 Junio 2021 11:15			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/corrientes/2968-tarjeta-alimentar-el-22-de-junio-nacion-acredita-montos-con-aumentos-para-beneficiarios-de-corrientes"><img src="/images/T_Alimentar.jpg" alt="T Alimentar" width="250" style="margin: 2px; float: left;" /></a>&nbsp;
+El ministerio de Desarrollo Social de la Nación, a través de su titular Daniel Arroyo, anunció el cronograma de pagos de la Tarjeta Alimentar que en Corrientes beneficia a 126.577 niñas, niños y adolescentes de 0 a 14 años.
+El pago se realizará a través de acreditaciones de los beneficios de...
+
+
+
+<div class="item-separator"></div>
+		</article>
+						
+			<article class="item column-2" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/corrientes/2967-detectaron-recargos-prohibidos-en-el-precio-de-venta-con-tarjeta-de-debito-y-credito" itemprop="url">
+			Detectaron recargos prohibidos en el precio de venta con tarjeta de débito y crédito</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=a84e311c6946eec8deb7b0f64331d24b8341fdaf" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-17T19:23:06+00:00" itemprop="datePublished">
+				Publicado: Jueves, 17 Junio 2021 19:23			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/corrientes/2967-detectaron-recargos-prohibidos-en-el-precio-de-venta-con-tarjeta-de-debito-y-credito"><img src="/images/tarjeta_recargos.jpg" alt="tarjeta recargos" width="250" style="margin: 2px; float: left;" /></a>&nbsp;
+&nbsp;
+Ante las constantes denuncias de consumidores, el ministro Schiavi y el subsecretario Ahmar dispusieron la realización de controles en comercios de la capital. Los inspectores verificaron aumentos en un pago que variaban entre el 6 y el 10% del costo original.
+&nbsp;
+&nbsp;
+El...
+
+
+
+<div class="item-separator"></div>
+		</article>
+						
+			<article class="item column-3" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/corrientes/2966-pronostico-semanal-y-situacion-hidrologica" itemprop="url">
+			Pronóstico semanal y situación hidrológica</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=e76ba554fdba56480d05c48210279fd4a2cdb7b5" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-17T19:19:12+00:00" itemprop="datePublished">
+				Publicado: Jueves, 17 Junio 2021 19:19			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/corrientes/2966-pronostico-semanal-y-situacion-hidrologica"><img src="/images/mapa_de_agua.jpg" alt="mapa de agua" width="250" style="margin: 2px; float: left;" /></a>&nbsp;
+El Instituto Correntino del Agua y del Ambiente (ICAA) dio a conocer el informe especial pronóstico de precipitaciones en la cuenca de los ríos Iguazú, Uruguay y Paraná brindado por el Servicio Meteorológico Nacional (SMN) destinado al sector Recursos hídricos que integra el Consejo Hídrico...
+
+
+
+<div class="item-separator"></div>
+		</article>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-3 row-3">
+				<article class="item column-1" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/corrientes/2965-valdes-inauguro-la-planta-de-elaboracion-de-concreto-asfaltico" itemprop="url">
+			Valdés inauguró la Planta de Elaboración de Concreto Asfáltico</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=4309936890e07c9684e213ba78c85c9665866362" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-17T17:39:59+00:00" itemprop="datePublished">
+				Publicado: Jueves, 17 Junio 2021 17:39			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/corrientes/2965-valdes-inauguro-la-planta-de-elaboracion-de-concreto-asfaltico"><img src="/images/Planta_de_Asfalto_Valdes.jpg" alt="Planta de Asfalto Valdes" width="250" style="margin: 2px; float: left;" /></a>&nbsp;
+El predio ocupa una hectárea y cuenta con un edificio y galpón para su administración técnica y operativa. “Hoy tenemos intervenidas unas 1.500 cuadras, entre asfaltado, hormigón, cordón cuneta y enripiado”, dijo el gobernador sobre las posibilidades que brindó esta obra.
+&nbsp;
+En una...
+
+
+
+<div class="item-separator"></div>
+		</article>
+						
+			<article class="item column-2" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/ituzaingo/2964-municipales-bono-de-3-mil-pesos-por-el-dia-del-padre" itemprop="url">
+			Municipales: Bono de 3 mil pesos por el día del padre</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=6ce86494f96e85cf984e0bcc3753163620b4709a" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-17T15:52:35+00:00" itemprop="datePublished">
+				Publicado: Jueves, 17 Junio 2021 15:52			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/ituzaingo/2964-municipales-bono-de-3-mil-pesos-por-el-dia-del-padre"><img src="/images/Burnaa.jpg" alt="Burnaa" width="250" style="margin: 2px; float: left;" /></a>&nbsp;
+El Intendente Eduardo Burna, dispuso que todos los empleados municipales reciban un Bono Extraordinario de $ 3000, con motivo de celebrarse el domingo 20 de junio el “Día del Padre"
+🔸️Este bono, posibilitará adquirir mercaderías y por ser un obsequio, no se descuenta del sueldo, no es un...
+
+
+
+<div class="item-separator"></div>
+		</article>
+						
+			<article class="item column-3" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/corrientes/2963-reintroducen-en-los-esteros-del-ibera-a-una-nutria-gigante-traida-desde-suecia" itemprop="url">
+			Reintroducen en los Esteros del Iberá a una nutria gigante traída desde Suecia</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=dd2ea1fb4a80bb29868f4a67a5fbb5fe1764a07f" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-17T11:04:07+00:00" itemprop="datePublished">
+				Publicado: Jueves, 17 Junio 2021 11:04			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/corrientes/2963-reintroducen-en-los-esteros-del-ibera-a-una-nutria-gigante-traida-desde-suecia"><img src="/images/Nutrias_del_Ibera.jpg" alt="Nutrias del Ibera" width="250" style="margin: 2px; float: left;" /></a>&nbsp;
+Será el sexto ejemplar de esa especie en el proyecto de reintroducción en ese ecosistema tras su extinción en todo el país.
+Un nutria gigante de dos años y medio llegada a la Argentina desde Suecia fue enviada a los Esteros del Iberá por la fundación Rewilding Argentina, y será el sexto...
+
+
+
+<div class="item-separator"></div>
+		</article>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-3 row-4">
+				<article class="item column-1" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/ituzaingo/2962-frio-polar-advertencia-violeta-por-el-frio-polar-en-corrientes-y-otras-nueve-provincias" itemprop="url">
+			Frio Polar: &quot;advertencia violeta&quot; por el frío polar en Corrientes y otras nueve provincias</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=c509cdcf35ad4484c267dede012573109079be6b" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-16T20:27:12+00:00" itemprop="datePublished">
+				Publicado: Miércoles, 16 Junio 2021 20:27			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/ituzaingo/2962-frio-polar-advertencia-violeta-por-el-frio-polar-en-corrientes-y-otras-nueve-provincias"><img src="/images/Nieve_en_cordoba.jpg" alt="Nieve en cordoba" width="250" style="margin: 2px; float: left;" /></a>&nbsp;
+Abarca a Córdoba, La Pampa, Tucumán y Entre Ríos de forma total y, parcialmente, a Buenos Aire, Santa Fe, Corrientes, Santiago del Estero, Catamarca y La Rioja.
+En Ituzaingó mañana hara 4 grados de minima con vientos predominantes del Noreste y parcialmente nublado, la máxima sera solo de 16...
+
+
+
+<div class="item-separator"></div>
+		</article>
+						
+			<article class="item column-2" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/pais/2961-alertan-por-un-falso-mensaje-de-mercado-libre-via-whatsapp-que-promete-regalos" itemprop="url">
+			Alertan por un falso mensaje de Mercado Libre vía Whatsapp que promete regalos</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=b57ee848dae6145dd114c13a405094507a321286" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-15T21:04:29+00:00" itemprop="datePublished">
+				Publicado: Martes, 15 Junio 2021 21:04			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/pais/2961-alertan-por-un-falso-mensaje-de-mercado-libre-via-whatsapp-que-promete-regalos"><img src="/images/Mercado_Libre_falso.jpg" alt="Mercado Libre falso" width="250" style="margin: 2px; float: left;" /></a>&nbsp;Aconsejaron corroborar siempre que la dirección de la página web de donde provienen estas comunicaciones.
+Se trata de un caso de "phishing" o robo de información personal. Desde la empresa tecnológica dirigida por Marcos Galperin, aseguraron: "El sorteo que está circulando por WhatsApp por...
+
+
+
+<div class="item-separator"></div>
+		</article>
+						
+			<article class="item column-3" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+	<h2 itemprop="name">
+					<a href="/index.php/corrientes/2960-este-miercoles-comienza-el-pago-del-medio-aguinaldo-a-estatales" itemprop="url">
+			Este miércoles comienza el pago del medio aguinaldo a Estatales</a>
+			</h2>
+
+	<ul class="actions">
+						<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=rt_afterburner2&amp;link=a8dc19036bda296dfa7b430c8a66e82d973b10fd" title="Enviar el enlace a un amigo" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<img src="/media/system/images/emailButton.png" alt="Correo electrónico" />	</a>		</li>
+		
+			</ul>
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Detalles</dt>
+		<dd class="published">
+			<time datetime="2021-06-15T11:31:15+00:00" itemprop="datePublished">
+				Publicado: Martes, 15 Junio 2021 11:31			</time>
+		</dd>
+ </dl>
+
+
+<a href="/index.php/corrientes/2960-este-miercoles-comienza-el-pago-del-medio-aguinaldo-a-estatales"><img src="/images/cajerros.jpg" alt="cajerros" style="margin: 2px; float: left;" /></a>&nbsp;
+El pago del medio aguinaldo del mes de junio para trabajadores provinciales activos y pasivos será por terminación de DNI", anunció Gustavo Valdés a través de sus redes sociales.
+• Miércoles 16: 0 y 1
+• Jueves 17: 2 y 3
+• Viernes 18: 4 y 5
+• Martes 22*: 6 y 7
+• Miércoles 23: 8 y...
+
+
+
+<div class="item-separator"></div>
+		</article>
+									<span class="row-separator"></span>
+				</div>
+
+				
+
+	<div class="pagination">
+
+					<p class="counter">
+				Página 1 de 196			</p>
+						<ul>
+	<li class="pagination-start"><span class="pagenav">Inicio</span></li>
+	<li class="pagination-prev"><span class="pagenav">Anterior</span></li>
+			<li><span class="pagenav">1</span></li>			<li><a href="/index.php?start=15" class="pagenav">2</a></li>			<li><a href="/index.php?start=30" class="pagenav">3</a></li>			<li><a href="/index.php?start=45" class="pagenav">4</a></li>			<li><a href="/index.php?start=60" class="pagenav">5</a></li>			<li><a href="/index.php?start=75" class="pagenav">6</a></li>			<li><a href="/index.php?start=90" class="pagenav">7</a></li>			<li><a href="/index.php?start=105" class="pagenav">8</a></li>			<li><a href="/index.php?start=120" class="pagenav">9</a></li>			<li><a href="/index.php?start=135" class="pagenav">10</a></li>		<li class="pagination-next"><a title="Siguiente" href="/index.php?start=15" class="hasTooltip pagenav">Siguiente</a></li>
+	<li class="pagination-end"><a title="Final" href="/index.php?start=2925" class="hasTooltip pagenav">Final</a></li>
+</ul>
+	</div>
+</section>
+								</div>
+	                        </div>
+						</div>
+                                                                    </div>
+                                        <div class="clear"></div>
+                </div>
+            </div>
+						</div>
+	</div>     
+
+		<div id="rt-bottom">
+		<div class="rt-container">		
+			<div class="rt-grid-6 rt-alpha">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom"  >
+	<p>&nbsp;</p>
+<p><strong>© Copyright Todos los Derechos Reservado a Ituzaingo Noticias &nbsp;Ι &nbsp;Ituzaingó Corrientes.<strong><br /></strong></strong></p></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-6 rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom"  >
+	<p><a href="http://qr.afip.gob.ar/?qr=xgqrJbmsI1dKxS2zaiVEcg,," target="_F960AFIPInfo"><img src="http://www.ituzaingonoticias.com.ar/images/dweb.jpg" alt="" style="float: right;" align="center" border="1" /></a></p></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+		
+		<div id="rt-footer">
+		<div class="rt-container">
+			<div class="rt-grid-12 rt-alpha rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom"  >
+	<p>Diseño Web: <strong>Adresen Desarrollo Web&nbsp;<a href="http://adresen.com.ar" target="_blank" rel="noopener noreferrer"><img src="/images/headers/logo4.png" alt="logo4" style="vertical-align: middle;" /></a></strong></p></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+			<div class="clear"></div>
+		</div>
+	</div>		
+	
+		  <link rel="shortcut icon" href="/favicon.ico" />
+</body>
+</html>
